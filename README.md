@@ -40,11 +40,14 @@ Microsoft Visual Studio Community 2015
 
 类`BoomButton`是整个扫雷游戏的核心。考虑到点击扫雷的时候需要用到鼠标的左击右击事件，而且关系到一些按钮的打开等，特从button类当中继承就免去了自己重新画过一个按钮，并且写这些鼠标事件的麻烦。另外，属性里面重要的有`countAround`,它是每个按钮计算附近雷数的一个重要属性，`hasBoom`记录的是该按钮下隐藏的是否为雷，而`status`记录的是左右击事件的记录：`close`,`open`,`mark`。`x`与`y`记录的是当前的按钮在整一个主界面的位置。关于鼠标的双击事件，本来button里面是有双击事件的，当不知道为什么似乎被`c#`屏蔽了，所以通过单击事件，外加`timer`，重写了一个双击事件。
 
+---
 
 # SQL Design and Description
 ![sql](https://github.com/kwongtailau/SweepBoom/blob/master/image/sql.png)
 
 ![sql2](https://github.com/kwongtailau/SweepBoom/blob/master/image/sql2.png)
+
+---
 
 # Running Status
 ## Start View
@@ -64,6 +67,8 @@ Microsoft Visual Studio Community 2015
 
 ## Show Score View
 ![show.pic](https://github.com/kwongtailau/SweepBoom/blob/master/image/show.png)
+
+---
 
 # Problem
 > 在设计当中，一开始我是使用了access数据库的，但是发现它说我缺少引擎，而且要在一个x86，即32位的环境下编译，我就将数据库换成了sql server。个人认为sql server中的语法通用性比access的高。
