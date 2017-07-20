@@ -1,0 +1,192 @@
+c:\users\刘广大\documents\visual studio 2015\Projects\sweepBoom\sweepBoom\bin\Debug\sweepBoom.exe.config
+C:\Users\刘广大\documents\visual studio 2015\Projects\sweepBoom\sweepBoom\bin\Debug\sweepBoom.exe
+C:\Users\刘广大\documents\visual studio 2015\Projects\sweepBoom\sweepBoom\bin\Debug\sweepBoom.pdb
+C:\Users\刘广大\documents\visual studio 2015\Projects\sweepBoom\sweepBoom\obj\Debug\sweepBoom.csprojResolveAssemblyReference.cache
+C:\Users\刘广大\documents\visual studio 2015\Projects\sweepBoom\sweepBoom\obj\Debug\sweepBoom.Form1.resources
+C:\Users\刘广大\documents\visual studio 2015\Projects\sweepBoom\sweepBoom\obj\Debug\sweepBoom.Properties.Resources.resources
+C:\Users\刘广大\documents\visual studio 2015\Projects\sweepBoom\sweepBoom\obj\Debug\sweepBoom.csproj.GenerateResource.Cache
+C:\Users\刘广大\documents\visual studio 2015\Projects\sweepBoom\sweepBoom\obj\Debug\sweepBoom.exe
+C:\Users\刘广大\documents\visual studio 2015\Projects\sweepBoom\sweepBoom\obj\Debug\sweepBoom.pdb
+E:\3115004885\sweepBoom\sweepBoom\bin\Debug\sweepBoom.exe.config
+E:\3115004885\sweepBoom\sweepBoom\obj\Debug\sweepBoom.exe
+E:\3115004885\sweepBoom\sweepBoom\obj\Debug\sweepBoom.pdb
+E:\3115004885\sweepBoom\sweepBoom\bin\Debug\sweepBoom.exe
+E:\3115004885\sweepBoom\sweepBoom\bin\Debug\sweepBoom.pdb
+E:\3115004885\sweepBoom\sweepBoom\obj\Debug\sweepBoom.csprojResolveAssemblyReference.cache
+E:\3115004885\sweepBoom\sweepBoom\obj\Debug\sweepBoom.Form1.resources
+E:\3115004885\sweepBoom\sweepBoom\obj\Debug\sweepBoom.Properties.Resources.resources
+E:\3115004885\sweepBoom\sweepBoom\obj\Debug\sweepBoom.csproj.GenerateResource.Cache
+C:\Users\刘广大\Documents\Visual Studio 2015\sweepBoom\sweepBoom\bin\Debug\sweepBoom.exe.config
+C:\Users\刘广大\Documents\Visual Studio 2015\sweepBoom\sweepBoom\obj\Debug\sweepBoom.exe
+C:\Users\刘广大\Documents\Visual Studio 2015\sweepBoom\sweepBoom\obj\Debug\sweepBoom.pdb
+C:\Users\刘广大\Documents\Visual Studio 2015\sweepBoom\sweepBoom\obj\Debug\sweepBoom.csprojResolveAssemblyReference.cache
+C:\Users\刘广大\Documents\Visual Studio 2015\sweepBoom\sweepBoom\obj\Debug\sweepBoom.Form1.resources
+C:\Users\刘广大\Documents\Visual Studio 2015\sweepBoom\sweepBoom\obj\Debug\sweepBoom.Properties.Resources.resources
+C:\Users\刘广大\Documents\Visual Studio 2015\sweepBoom\sweepBoom\obj\Debug\sweepBoom.csproj.GenerateResource.Cache
+C:\Users\刘广大\Documents\Visual Studio 2015\sweepBoom\sweepBoom\bin\Debug\sweepBoom.exe
+C:\Users\刘广大\Documents\Visual Studio 2015\sweepBoom\sweepBoom\bin\Debug\sweepBoom.pdb
+C:\Users\刘广大\Documents\Visual Studio 2015\sweepBoom\sweepBoom\obj\Debug\sweepBoom.BoomButton.resources
+C:\Users\刘广大\Documents\Visual Studio 2015\sweepBoom\sweepBoom\obj\Debug\sweepBoom.LoginDlg.resources
+C:\Users\刘广大\Documents\Visual Studio 2015\sweepBoom\sweepBoom\obj\Debug\sweepBoom.RegisterDlg.resources
+D:\sweepBoom\sweepBoom\bin\Debug\sweepBoom.exe.config
+D:\sweepBoom\sweepBoom\obj\Debug\sweepBoom.exe
+D:\sweepBoom\sweepBoom\obj\Debug\sweepBoom.pdb
+D:\sweepBoom\sweepBoom\bin\Debug\sweepBoom.exe
+D:\sweepBoom\sweepBoom\bin\Debug\sweepBoom.pdb
+D:\sweepBoom\sweepBoom\obj\Debug\sweepBoom.csprojResolveAssemblyReference.cache
+D:\sweepBoom\sweepBoom\obj\Debug\sweepBoom.BoomButton.resources
+D:\sweepBoom\sweepBoom\obj\Debug\sweepBoom.Form1.resources
+D:\sweepBoom\sweepBoom\obj\Debug\sweepBoom.modelChooseDlg.resources
+D:\sweepBoom\sweepBoom\obj\Debug\sweepBoom.LoginDlg.resources
+D:\sweepBoom\sweepBoom\obj\Debug\sweepBoom.Properties.Resources.resources
+D:\sweepBoom\sweepBoom\obj\Debug\sweepBoom.RegisterDlg.resources
+D:\sweepBoom\sweepBoom\obj\Debug\sweepBoom.csproj.GenerateResource.Cache
+D:\sweepBoom - Copy\sweepBoom\bin\Debug\sweepBoom.exe.config
+D:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.exe
+D:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.pdb
+D:\sweepBoom - Copy\sweepBoom\bin\Debug\sweepBoom.exe
+D:\sweepBoom - Copy\sweepBoom\bin\Debug\sweepBoom.pdb
+D:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.csprojResolveAssemblyReference.cache
+D:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.BoomButton.resources
+D:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.Form1.resources
+D:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.modelChooseDlg.resources
+D:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.LoginDlg.resources
+D:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.Properties.Resources.resources
+D:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.RegisterDlg.resources
+D:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.csproj.GenerateResource.Cache
+J:\sweepBoom - Copy\sweepBoom\bin\Debug\sweepBoom.exe.config
+J:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.exe
+J:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.pdb
+J:\sweepBoom - Copy\sweepBoom\bin\Debug\sweepBoom.exe
+J:\sweepBoom - Copy\sweepBoom\bin\Debug\sweepBoom.pdb
+J:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.csprojResolveAssemblyReference.cache
+J:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.BoomButton.resources
+J:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.Form1.resources
+J:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.modelChooseDlg.resources
+J:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.LoginDlg.resources
+J:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.Properties.Resources.resources
+J:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.RegisterDlg.resources
+J:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.csproj.GenerateResource.Cache
+G:\sweepBoom - Copy\sweepBoom\bin\Debug\sweepBoom.exe.config
+G:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.exe
+G:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.pdb
+G:\sweepBoom - Copy\sweepBoom\bin\Debug\sweepBoom.exe
+G:\sweepBoom - Copy\sweepBoom\bin\Debug\sweepBoom.pdb
+G:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.csprojResolveAssemblyReference.cache
+G:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.BoomButton.resources
+G:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.Form1.resources
+G:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.modelChooseDlg.resources
+G:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.LoginDlg.resources
+G:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.Properties.Resources.resources
+G:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.RegisterDlg.resources
+G:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.csproj.GenerateResource.Cache
+G:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.ScoreShowDlg.resources
+J:\sweepBoom - Copy\sweepBoom\obj\Debug\sweepBoom.ScoreShowDlg.resources
+J:\sweepBoom - Copy - 副本\sweepBoom\bin\Debug\sweepBoom.exe.config
+J:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.exe
+J:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.pdb
+J:\sweepBoom - Copy - 副本\sweepBoom\bin\Debug\sweepBoom.exe
+J:\sweepBoom - Copy - 副本\sweepBoom\bin\Debug\sweepBoom.pdb
+J:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.csprojResolveAssemblyReference.cache
+J:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.BoomButton.resources
+J:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.Form1.resources
+J:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.modelChooseDlg.resources
+J:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.LoginDlg.resources
+J:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.Properties.Resources.resources
+J:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.RegisterDlg.resources
+J:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.ScoreShowDlg.resources
+J:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.csproj.GenerateResource.Cache
+G:\sweepBoom - Copy - 副本\sweepBoom\bin\Debug\sweepBoom.exe.config
+G:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.exe
+G:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.pdb
+G:\sweepBoom - Copy - 副本\sweepBoom\bin\Debug\sweepBoom.exe
+G:\sweepBoom - Copy - 副本\sweepBoom\bin\Debug\sweepBoom.pdb
+G:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.csprojResolveAssemblyReference.cache
+G:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.BoomButton.resources
+G:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.Form1.resources
+G:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.modelChooseDlg.resources
+G:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.LoginDlg.resources
+G:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.Properties.Resources.resources
+G:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.RegisterDlg.resources
+G:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.ScoreShowDlg.resources
+G:\sweepBoom - Copy - 副本\sweepBoom\obj\Debug\sweepBoom.csproj.GenerateResource.Cache
+J:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\bin\Debug\sweepBoom.exe.config
+J:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.exe
+J:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.pdb
+J:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\bin\Debug\sweepBoom.exe
+J:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\bin\Debug\sweepBoom.pdb
+J:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.csprojResolveAssemblyReference.cache
+J:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.BoomButton.resources
+J:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.Form1.resources
+J:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.modelChooseDlg.resources
+J:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.LoginDlg.resources
+J:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.Properties.Resources.resources
+J:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.RegisterDlg.resources
+J:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.ScoreShowDlg.resources
+J:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.csproj.GenerateResource.Cache
+G:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\bin\Debug\sweepBoom.exe.config
+G:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\bin\Debug\sweepBoom.exe
+G:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\bin\Debug\sweepBoom.pdb
+G:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.csprojResolveAssemblyReference.cache
+G:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.BoomButton.resources
+G:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.Form1.resources
+G:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.modelChooseDlg.resources
+G:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.LoginDlg.resources
+G:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.Properties.Resources.resources
+G:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.RegisterDlg.resources
+G:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.ScoreShowDlg.resources
+G:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.csproj.GenerateResource.Cache
+G:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.exe
+G:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\obj\Debug\sweepBoom.pdb
+J:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\bin\Debug\User.mdf
+J:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\bin\Debug\User_log.ldf
+G:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\bin\Debug\User.mdf
+G:\sweepBoom - Copy - 副本 - Copy2016年11月26日\sweepBoom\bin\Debug\User_log.ldf
+D:\about_c_shape\sweepBoom\sweepBoom\bin\Debug\sweepBoom.exe.config
+D:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.exe
+D:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.pdb
+D:\about_c_shape\sweepBoom\sweepBoom\bin\Debug\User.mdf
+D:\about_c_shape\sweepBoom\sweepBoom\bin\Debug\User_log.ldf
+D:\about_c_shape\sweepBoom\sweepBoom\bin\Debug\sweepBoom.exe
+D:\about_c_shape\sweepBoom\sweepBoom\bin\Debug\sweepBoom.pdb
+D:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.csprojResolveAssemblyReference.cache
+D:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.BoomButton.resources
+D:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.Form1.resources
+D:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.modelChooseDlg.resources
+D:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.LoginDlg.resources
+D:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.Properties.Resources.resources
+D:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.RegisterDlg.resources
+D:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.ScoreShowDlg.resources
+D:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.csproj.GenerateResource.Cache
+G:\about_c_shape\sweepBoom\sweepBoom\bin\Debug\sweepBoom.exe.config
+G:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.exe
+G:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.pdb
+G:\about_c_shape\sweepBoom\sweepBoom\bin\Debug\User.mdf
+G:\about_c_shape\sweepBoom\sweepBoom\bin\Debug\User_log.ldf
+G:\about_c_shape\sweepBoom\sweepBoom\bin\Debug\sweepBoom.exe
+G:\about_c_shape\sweepBoom\sweepBoom\bin\Debug\sweepBoom.pdb
+G:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.csprojResolveAssemblyReference.cache
+G:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.BoomButton.resources
+G:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.Form1.resources
+G:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.modelChooseDlg.resources
+G:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.LoginDlg.resources
+G:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.Properties.Resources.resources
+G:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.RegisterDlg.resources
+G:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.ScoreShowDlg.resources
+G:\about_c_shape\sweepBoom\sweepBoom\obj\Debug\sweepBoom.csproj.GenerateResource.Cache
+G:\计科15_3115004885_刘广大\大作业\sweepBoom\sweepBoom\bin\Debug\sweepBoom.exe.config
+G:\计科15_3115004885_刘广大\大作业\sweepBoom\sweepBoom\obj\Debug\sweepBoom.exe
+G:\计科15_3115004885_刘广大\大作业\sweepBoom\sweepBoom\obj\Debug\sweepBoom.pdb
+G:\计科15_3115004885_刘广大\大作业\sweepBoom\sweepBoom\bin\Debug\User.mdf
+G:\计科15_3115004885_刘广大\大作业\sweepBoom\sweepBoom\bin\Debug\User_log.ldf
+G:\计科15_3115004885_刘广大\大作业\sweepBoom\sweepBoom\bin\Debug\sweepBoom.exe
+G:\计科15_3115004885_刘广大\大作业\sweepBoom\sweepBoom\bin\Debug\sweepBoom.pdb
+G:\计科15_3115004885_刘广大\大作业\sweepBoom\sweepBoom\obj\Debug\sweepBoom.csprojResolveAssemblyReference.cache
+G:\计科15_3115004885_刘广大\大作业\sweepBoom\sweepBoom\obj\Debug\sweepBoom.BoomButton.resources
+G:\计科15_3115004885_刘广大\大作业\sweepBoom\sweepBoom\obj\Debug\sweepBoom.Form1.resources
+G:\计科15_3115004885_刘广大\大作业\sweepBoom\sweepBoom\obj\Debug\sweepBoom.modelChooseDlg.resources
+G:\计科15_3115004885_刘广大\大作业\sweepBoom\sweepBoom\obj\Debug\sweepBoom.LoginDlg.resources
+G:\计科15_3115004885_刘广大\大作业\sweepBoom\sweepBoom\obj\Debug\sweepBoom.Properties.Resources.resources
+G:\计科15_3115004885_刘广大\大作业\sweepBoom\sweepBoom\obj\Debug\sweepBoom.RegisterDlg.resources
+G:\计科15_3115004885_刘广大\大作业\sweepBoom\sweepBoom\obj\Debug\sweepBoom.ScoreShowDlg.resources
+G:\计科15_3115004885_刘广大\大作业\sweepBoom\sweepBoom\obj\Debug\sweepBoom.csproj.GenerateResource.Cache

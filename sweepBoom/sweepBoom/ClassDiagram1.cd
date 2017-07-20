@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="sweepBoom.LoginDlg">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACCYAACAAAAAgAAzAAAgCAEEkAAAQAIAAAAEEAAA=</HashCode>
+      <FileName>LoginDlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sweepBoom.Form1">
+    <Position X="3.5" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>kwQAAAkQAGDAgBEAIB6gBAACBFAsIIEAQCQABQJAgBA=</HashCode>
+      <FileName>MainPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sweepBoom.modelChooseDlg">
+    <Position X="6.25" Y="0.5" Width="2.75" />
+    <NestedTypes>
+      <Enum Name="sweepBoom.modelChooseDlg.model" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>modelChooseDlg.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIIBAgAgCAAABCAAACAEAACQAABAABAAAAAAAAAgAI=</HashCode>
+      <FileName>modelChooseDlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sweepBoom.ScoreShowDlg">
+    <Position X="0.5" Y="7.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BAKAAAAAACACABgAAACCgAAiAgQAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>ScoreShowDlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sweepBoom.RegisterDlg">
+    <Position X="3.5" Y="7.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACQAggAAAAiEAAACAAAQAAAAABAAAAAAABA=</HashCode>
+      <FileName>RegisterDlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sweepBoom.BoomButton">
+    <Position X="6.25" Y="7.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>CEQAAAAIAAQAAAgDAAAAAAACAAACAAEAAABgAAAAgAA=</HashCode>
+      <FileName>BoomButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="sweepBoom.BtnStatus" Collapsed="true">
+    <Position X="6.25" Y="8.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAAAAgAA=</HashCode>
+      <FileName>BoomButton.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
