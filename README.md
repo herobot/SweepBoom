@@ -71,5 +71,5 @@ Microsoft Visual Studio Community 2015
 ---
 
 # Problem
-> 在设计当中，一开始我是使用了access数据库的，但是发现它说我缺少引擎，而且要在一个x86，即32位的环境下编译，我就将数据库换成了sql server。个人认为sql server中的语法通用性比access的高。
+> 在设计当中，一开始我是使用了access数据库的，但是发现它说我缺少引擎，而且要在一个x86，即32位的环境下编译，我就将数据库换成了sql server。
 
